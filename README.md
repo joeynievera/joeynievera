@@ -13,3 +13,4 @@ Hi, my name is Joey and I am a current third-year undergrad at Georgia Tech. My 
 # Tools
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi2.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
 
+![joeynievera's Stats](https://github-readme-stats.vercel.app/api?username=joeynievera&theme=default&show_icons=true&hide_border=false&count_private=true)
